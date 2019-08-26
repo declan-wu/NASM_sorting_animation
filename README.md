@@ -1,4 +1,4 @@
-# NASM_sorting_animation
+# NASM-insertion-sort-animation
 Description: Project written in NASM assembly language that sorts a randomly generated list while display the animation of sorting
  * take 1 command line argument, between 2 and 9(length of the array you want to generate)
  * sorts the array while displaying the movement using showp and temp_display
